@@ -1,5 +1,5 @@
 # Dark-Side-of-MARS
-An fully functional theme engine for MARS. 
+A fully functional theme engine for MARS. 
 
 Feel free to contact me at aeris170@gmail.com
 
