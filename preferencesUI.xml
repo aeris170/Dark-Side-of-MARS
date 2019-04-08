@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="mars">
+      <map/>
+      <node name="settings">
+      <map>
+          <entry key="LabelWindowVisibility" value="true"/>
+          <entry key="EditorLineNumbersDisplayed" value="true"/>
+          <entry key="CaretBlinkRate" value="500"/>
+          <entry key="EditorTabSize" value="8"/>
+          <entry key="EditorFontFamily" value="Dialog"/>
+          <entry key="EditorFontStyle" value="Plain"/>
+          <entry key="EditorFontSize" value="12"/>
+          <entry key="EditorPopupPrefixLength" value="2"/>
+          <entry key="SyntaxStyleColor_1" value="0x00586e75"/>
+          <entry key="SyntaxStyleBold_1" value="true"/>
+          <entry key="SyntaxStyleItalic_1" value="true"/>
+          <entry key="SyntaxStyleColor_3" value="0x002aa198"/>
+          <entry key="SyntaxStyleBold_3" value="true"/>
+          <entry key="SyntaxStyleItalic_3" value="false"/>
+          <entry key="SyntaxStyleColor_4" value="0x002aa198"/>
+          <entry key="SyntaxStyleBold_4" value="true"/>
+          <entry key="SyntaxStyleItalic_4" value="false"/>
+          <entry key="SyntaxStyleColor_5" value="0x00dc2c27"/>
+          <entry key="SyntaxStyleBold_5" value="true"/>
+          <entry key="SyntaxStyleItalic_5" value="true"/>
+          <entry key="SyntaxStyleColor_6" value="0x00e0e2e4"/>
+          <entry key="SyntaxStyleBold_6" value="true"/>
+          <entry key="SyntaxStyleItalic_6" value="false"/>
+          <entry key="SyntaxStyleColor_7" value="0x00b58900"/>
+          <entry key="SyntaxStyleBold_7" value="true"/>
+          <entry key="SyntaxStyleItalic_7" value="false"/>
+          <entry key="SyntaxStyleColor_8" value="0x00678cb1"/>
+          <entry key="SyntaxStyleBold_8" value="true"/>
+          <entry key="SyntaxStyleItalic_8" value="false"/>
+          <entry key="SyntaxStyleColor_10" value="0x00ff00cc"/>
+          <entry key="SyntaxStyleBold_10" value="true"/>
+          <entry key="SyntaxStyleItalic_10" value="false"/>
+          <entry key="SyntaxStyleColor_11" value="0x0000ffcc"/>
+          <entry key="SyntaxStyleBold_11" value="true"/>
+          <entry key="SyntaxStyleItalic_11" value="true"/>
+          <entry key="EditorCurrentLineHighlighting" value="true"/>
+          <entry key="TextSegmentHighlightBackground" value="0x00fc615b"/>
+          <entry key="TextSegmentHighlightForeground" value="0x00000000"/>
+          <entry key=" TextSegmentHighlightFontFamily" value="Monospaced"/>
+          <entry key=" TextSegmentHighlightFontStyle" value="Bold"/>
+          <entry key=" TextSegmentHighlightFontSize" value="12"/>
+          <entry key="TextSegmentDelaySlotHighlightBackground" value="0x0061fc5b"/>
+          <entry key="TextSegmentDelaySlotHighlightForeground" value="0x00000000"/>
+          <entry key="TextSegmentDelayslotHighightFontFamily" value="Monospaced"/>
+          <entry key="TextSegmentDelayslotHighightFontStyle" value="Bold"/>
+          <entry key="TextSegmentDelayslotHighightFontSize" value="12"/>
+          <entry key="DataSegmentHighlightBackground" value="0x00fc615b"/>
+          <entry key="DataSegmentHighlightForeground" value="0x00000000"/>
+          <entry key="DataSegmentHighlightFontFamily" value="Monospaced"/>
+          <entry key="DataSegmentHighlightFontStyle" value="Bold"/>
+          <entry key="DataSegmentHighlightFontSize" value="13"/>
+          <entry key="RegisterHighlightBackground" value="0x00fc615b"/>
+          <entry key="RegisterHighlightForeground" value="0x00000000"/>
+          <entry key="RegisterHighlightFontFamily" value="Monospaced"/>
+          <entry key="RegisterHighlightFontStyle" value="Bold"/>
+          <entry key="RegisterHighlightFontSize" value="12"/>
+          <entry key="EvenRowBackground" value="0x0032393e"/>
+          <entry key="EvenRowForeground" value="0x00f9fafa"/>
+          <entry key="EvenRowFontFamily" value="Monospaced"/>
+          <entry key="EvenRowFontStyle" value="Bold"/>
+          <entry key="EvenRowFontSize" value="12"/>
+          <entry key="OddRowBackground" value="0x0032393e"/>
+          <entry key="OddRowForeground" value="0x00f9fafa"/>
+          <entry key="OddRowFontFamily" value="Monospaced"/>
+          <entry key="OddRowFontStyle" value="Bold"/>
+          <entry key="OddRowFontSize" value="12"/>
+          <entry key="DataSegmentHighlighting" value="true"/>
+          <entry key="RegistersHighlighting" value="true"/>
+          <entry key="PopupSyscallInput" value="true"/>
+          <entry key="LabelSortState" value="0"/>
+          <entry key="ProgramArguments" value="true"/>
+          <entry key="WarningsAreErrors" value="false"/>
+          <entry key="DelayedBranching" value="false"/>
+          <entry key="DisplayAddressesInHex" value="true"/>
+          <entry key="DisplayValuesInHex" value="true"/>
+          <entry key="PopupInstructionGuidance" value="true"/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>
